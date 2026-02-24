@@ -10,5 +10,10 @@ A simple project that changes the webpage background color dynamically when a bu
 🔗 [View Project](https://github.com/UMESHRATHOD16/JSminiProjects/tree/main/colorChanger)
 
 ---
+### 3. Body Mass Index calculator
+A simple BMI calculator
 
+🔗 [View Project](https://github.com/UMESHRATHOD16/JSminiProjects/tree/main/BMIcalculator)
+
+---
 More projects coming soon...
