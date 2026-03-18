@@ -21,4 +21,6 @@ A simple BMI calculator
 A simple Clock
 
 🔗 [View Project](https://github.com/UMESHRATHOD16/JSminiProjects/tree/main/DigitalClock)
+
+---
 More projects coming soon...
