@@ -23,4 +23,12 @@ A simple Clock
 🔗 [View Project](https://github.com/UMESHRATHOD16/JSminiProjects/tree/main/DigitalClock)
 
 ---
+
+### 4. Infinite Colours
+A simple background colour changer 
+* gives idea about how eventlistner() and setintervals() works
+
+🔗 [View Project](https://github.com/UMESHRATHOD16/JSminiProjects/tree/main/infinteColour)
+
+---
 More projects coming soon...
